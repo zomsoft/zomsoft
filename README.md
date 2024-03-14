@@ -71,8 +71,6 @@ You can find my professional certifications using the below links 👇.
 
 ## Find below links to some of my projects and repositories 👇.
 
-My all time favorites are linked below in the Pinned Repositories. But here are others as well:
-
 ### Data Science and Machine Learning Projects
 
 1. [Salary Prediction Prototype](https://github.com/zomsoft/Batch-1844/blob/main/Projects/PROJECT%201(Salary)_Salary%20Prediction_29082022%20to%2003092022.ipynb)
