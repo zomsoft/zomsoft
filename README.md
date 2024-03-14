@@ -61,6 +61,7 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 ## Certifications and Credentials
 You can find my professional certifications using the below links 👇.
 1. https://coursera.org/share/8d127fc3539d11d4ff9eade8923b13ee
+2. https://www.credly.com/badges/92013f9c-d281-4c08-bec1-a1af47464cf8/public_url
 
 ---
 
