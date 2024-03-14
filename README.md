@@ -89,11 +89,6 @@ My all time favorites are linked below in the Pinned Repositories. But here are 
 16. [Rainfall Prediction](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%208(RAINFALL_PREDICTION%20-%20Weather%20Forecasting)_RAINFALL_PREDICTION_16102022%20to%2029102022_Final.ipynb)
 17. [Insurance Claims](https://github.com/zomsoft/Batch-1844/blob/main/Projects/EVALUATION%20PROJECT%209(INSURANCE%20CLAIMS)_INSURANCE_CLAIMS_16102022%20to%2029102022.ipynb)
 
-### Data Analytics Projects
-
-### Business Intelligence Projects
-
-### Data Engineering Projects
 
 ## I Hope you have a great time going through them. Feedback is highly appreciated.
 
