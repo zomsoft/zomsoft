@@ -51,7 +51,10 @@ My academic background in Engineering Technology and Applied Sciences has equipp
     <img src="https://img.shields.io/badge/T--SQL-%2314354C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
     <img src="https://img.shields.io/badge/MACHINE_LEARNING-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&color=grey">
     <img src="https://img.shields.io/badge/DATABASE_DESIGN_AND_ADMINISTRATION-%2314354C.svg?style=for-the-badge&logo=database&logoColor=white&color=blue">
-    <img src="https://img.shields.io/badge/Google_Sheets-%231A73E8.svg?style=for-the-badge&logo=googlesheets&logoColor=white&color=blue">
+    <img src="https://img.shields.io/badge/Google_Sheets-%231A73E8.svg?style=for-the-badge&logo=googlesheets&logoColor=white&color=green">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white&color=dark green">
+    <img src="https://img.shields.io/badge/Beautiful_Soup-%23676E6D.svg?style=for-the-badge&logo=python&logoColor=white&color=grey">
+    <img src="https://img.shields.io/badge/Selenium-%234AB27B.svg?style=for-the-badge&logo=selenium&logoColor=white&color=red">
 
 </div>
 <br>
