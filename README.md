@@ -49,7 +49,7 @@ My academic background in Engineering Technology and Applied Sciences has equipp
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Tableau-%2314354C.svg?style=for-the-badge&logo=tableau&logoColor=Green">
     <img src="https://img.shields.io/badge/T--SQL-%2314354C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-    <img src="https://img.shields.io/badge/T--SQL-%2314354C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=Green">
+    <img src="https://img.shields.io/badge/T--SQL-%2314354C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=Pink">
     <img src="https://img.shields.io/badge/-MACHINE%20LEARING-brightgreen">
     <img src="https://img.shields.io/badge/-DATABASE%20DESIGN%20AND%20ADMINISTRATION-red">
 
