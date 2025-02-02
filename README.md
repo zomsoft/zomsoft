@@ -68,7 +68,8 @@ You can find my professional certifications using the below links 👇.
 2. https://coursera.org/share/1d61e4637310b57067d8c8444ad58f05
 3. https://coursera.org/share/830ece39d0b8cbb4e980c2664b2adbc8
 4. https://coursera.org/share/a3f4e83f0dd54fb5535599868f2de51b
-5. [https://www.credly.com/badges/92013f9c-d281-4c08-bec1-a1af47464cf8/public_url](https://www.credly.com/users/promise-azom)
+5. https://www.coursera.org/account/accomplishments/verify/49HZIJLQ3A4S
+6. [https://www.credly.com/badges/92013f9c-d281-4c08-bec1-a1af47464cf8/public_url](https://www.credly.com/users/promise-azom)
 
 ---
 
