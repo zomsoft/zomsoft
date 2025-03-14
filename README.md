@@ -98,6 +98,9 @@ You can find my professional certifications using the below links 👇.
 ### Data Analytics Projects
 1. [Vechicle Manufacturing](https://github.com/zomsoft/Data-Analytics-Projects/blob/main/Vehicle_Manufacturing_Dataset(Kaggle).ipynb)
 
+### Project Presentations
+1. [Vechicle Manufacturing](https://docs.google.com/presentation/d/1eTg4SDESurfqImevK1u94113CVWqb-Mo/edit#slide=id.p1)
+
 ## I Hope you have a great time going through them. Feedback is highly appreciated.
 
 
