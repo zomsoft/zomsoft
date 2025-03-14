@@ -31,10 +31,9 @@ My academic background in Engineering Technology and Applied Sciences has equipp
 <hr>
 <h2> Some things you should know about me 👇</h2>
 <ul>
-<li>👨‍💻 I'm currently a <em> Data Scientist </em> at <strong>Flip Robo Technologies, the foremost Artificial Intelligence company that specializes in chats, web scrapping and building algorithms</strong>.</li>
-<li>👨‍💻 I used to be a <em> Data Analyst </em> at <strong>Guaranty Trust Bank Plc (One of the Biggest Bank in Africa)</strong> and eventually, <em> a Data Scientist </em>.</li>
-<li>👨‍🔬 Before that, I was a <em>Business Intelligence Analyst</em> with <strong>Guaranty Trust Bank Plc</strong>.</li>
-<li>👨‍🔬 And Before that, I was a <em> Program Manager</em>, and helped developing platforms that were geared towards <strong>Digitalization and Business Process Re-engineering</strong>.</li>
+<li>👨‍💻 I'm currently a <em> Data Scientist </em> at <strong>M2M Tech, a company dedicated to empowering sustainable development through innovation. The company focuses on equipping individuals with in-demand STEM skills, fostering research and development capabilities, and forging connections with leading businesses in emerging technologies such as Data Science, Machine Learning, Artificial Intelligence, and Virtual/Augmented Reality.</strong>.</li>
+<li>👨‍💻 I used to be a <em> Senior Data Analyst </em> at <strong>Guaranty Trust Bank Plc (One of the Biggest Bank in Africa)</strong> and eventually, <em> a Data Scientist </em>.</li>
+<li>👨‍🔬 And Before that, I was a <em> Program Manager and Digitalization Specialist</em>, and helped developing platforms that were geared towards <strong>Digitalization and Business Process Re-engineering</strong>.</li>
 <li>☁  I have been studying and working on various <strong>Data Science and Machine Learning</strong> <em>Learning programs, individual and team projects, internships and fellowships</em>  <strong>since</strong> late 2021.</li>
 <li>👨‍🎓 Making this switch into Data Science has become one of the best career decisions I have made.</li>
 </ul>
